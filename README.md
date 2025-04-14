@@ -26,7 +26,7 @@ This project aims to develop a speech understanding system for multi-speaker Ind
 └── aryank47-speaker-diarization-recognition-for-multi-speaker-indian-conversations/
 ├── README.md
 ├── init.py
-├── proj.ipynb
+├── main.ipynb
 ├── requirements.txt
 ├── AMI/
 │   ├── init.py
@@ -99,7 +99,7 @@ python -c "import torch; print(torch.backends.mps.is_available())"
 
 ## Code Structure
 
-1. proj.ipynb: Jupyter notebook that demonstrates the pipeline with code and visualizations.
+1. main.ipynb: Jupyter notebook that demonstrates the pipeline with code and visualizations.
 2. requirements.txt: Lists all the Python dependencies needed for the project.
 3. AMI/: Contains AMI meeting corpus data and annotations.
 4. ES2008a/: Directory for the specific AMI meeting session data.
@@ -112,9 +112,9 @@ python -c "import torch; print(torch.backends.mps.is_available())"
 
 ## Running the Pipeline
 
-To run the pipeline on an audio file, use the provided Jupyter notebook (proj.ipynb).
+To run the pipeline on an audio file, use the provided Jupyter notebook (main.ipynb).
 
-1. Open the notebook proj.ipynb in Jupyter.
+1. Open the notebook main.ipynb in Jupyter.
 2. Modify paths for your data (if needed), such as the AMI audio file and annotation files.
 3. Run the notebook cells sequentially to process the audio, perform VAD, diarization, speaker recognition, and transcription.
 

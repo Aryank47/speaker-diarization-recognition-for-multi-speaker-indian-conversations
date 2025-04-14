@@ -1,0 +1,172 @@
+start_time,end_time,speaker,transcript
+32.706,36.926,ES2008a.sync.5,"Okay, good morning everybody. I'm glad you could all come. I'm really excited to start this team."
+37.538,41.374,ES2008a.sync.5,I'm just gonna have a little PowerPoint presentation for us for our kickoff meeting.
+41.986,43.934,ES2008a.sync.7,"My name is Rose Lindgren, I'll be the project manager."
+46.146,54.046,ES2008a.sync.7,"Our agenda today is we're going to do a little opening and then I'm going to talk a little bit about the project. Then we'll move into acquaintance, just getting to know each other a little bit."
+54.37,62.014,ES2008a.sync.7,"including a tool training exercise. And then we'll move into the project plan, do a little discussion. and close since we only have 25 minutes."
+63.874,72.35,ES2008a.sync.9,"First of all, our project aim, we are creating a new remote control which we have three goals about. It needs to be original, trendy, and user friendly."
+72.93,76.062,ES2008a.sync.9,I'm hoping that we can all work together to achieve all three of those.
+78.082,80.158,ES2008a.sync.11,So we're going to divide this up into three.
+81.218,84.222,ES2008a.sync.9,three parts. First the functional design which will be
+84.61,87.006,ES2008a.sync.9,"First we'll do individual work, come into a meeting."
+87.33,90.142,ES2008a.sync.9,the conceptual design. individual work in a meeting.
+90.658,93.566,ES2008a.sync.9,"and then the detailed design, individual work, and meeting."
+94.37,97.502,ES2008a.sync.9,so that we'll each be doing our own ideas and then coming together.
+101.186,107.07,ES2008a.sync.11,"Okay, we're gonna get to know each other a little bit. So what we're going to do is start off with."
+108.002,109.31,ES2008a.sync.11,Let's start off with Amina.
+110.626,117.982,ES2008a.sync.11,"Alima, sorry, Alima. We're going to do a little tool training. So we're going to work with that whiteboard behind you"
+118.402,123.006,ES2008a.sync.11,"Introduce yourself, say one thing about yourself, and then draw your favorite animal and tell us about it."
+126.658,129.246,ES2008a.sync.121,I don't know which one of these I have to bring with me.
+129.474,130.974,ES2008a.sync.13,Probably both.
+132.962,138.11,ES2008a.sync.123,"Right, so I'm supposed to draw my favorite animal. I have no drawing skills whatsoever."
+138.498,148.542,ES2008a.sync.123,"But let's see, introduce myself. My name is Alima Buccintini. I'm from the state of Maine in the US. I'm doing nationalism studies."
+149.25,151.934,ES2008a.sync.125,blah blah blah and I have no artistic talent.
+152.034,155.198,ES2008a.sync.15,How do you spell your name? A-L-I-M-A. Thanks.
+155.618,158.046,ES2008a.sync.129,"Oh, and I guess I'm the industrial designer."
+158.53,160.19,ES2008a.sync.129,on this project.
+160.45,162.11,ES2008a.sync.129,So let's see if I can get...
+165.218,167.23,ES2008a.sync.129,I will draw a little.
+168.034,169.918,ES2008a.sync.129,turtle for you all.
+172.29,175.838,ES2008a.sync.129,"because it's my absolute favorite animal, but just that."
+176.226,177.598,ES2008a.sync.131,I think they're drawable.
+180.866,182.558,ES2008a.sync.131,Pretty little shell going on.
+195.874,197.438,ES2008a.sync.19,So what are your favorite characteristics?
+198.53,201.95,ES2008a.sync.137,I like the whole having a shell thing. It's...
+202.21,204.318,ES2008a.sync.137,Quite cool. Carry your home around where you go.
+205.41,208.702,ES2008a.sync.137,"quite decorative little animals. They can swim, they can..."
+209.314,210.558,ES2008a.sync.137,They're very adaptable.
+210.882,212.286,ES2008a.sync.137,They carry everything they need with them.
+214.146,215.646,ES2008a.sync.137,And they're easy to draw.
+217.026,218.142,ES2008a.sync.230,Excellent.
+218.402,219.486,ES2008a.sync.23,So we just go around the table.
+226.05,227.102,ES2008a.sync.234,to InSpec's design.
+239.426,244.99,ES2008a.sync.27,"I should leave that one on there. No, you can erase the turtle, it's alright. It might be nice to have them all up there at the same time."
+275.362,276.766,ES2008a.sync.246,"That's a list, that's a five-o."
+278.306,282.686,ES2008a.sync.143,"Well, it's a wrap. Oh my god, it started when I'm in it."
+284.61,287.486,ES2008a.sync.248,"Yeah, the reason I like whales is because they're..."
+288.13,289.886,ES2008a.sync.248,for their quiet intelligence.
+290.882,292.574,ES2008a.sync.248,So they're kind of mysterious.
+295.042,296.126,ES2008a.sync.248,much about them all.
+312.098,314.718,ES2008a.sync.327,"All right, I'm Jessie. I'm from."
+315.106,317.246,ES2008a.sync.327,"around DC-ish, sort of."
+319.234,323.262,ES2008a.sync.329,And we're gonna keep the. deep sea sort of theme going on.
+344.29,346.206,ES2008a.sync.341,I would have given an idea.
+346.786,348.254,ES2008a.sync.341,I have no idea how one would-
+353.506,355.614,ES2008a.sync.345,Basically it's supposed to be a seal.
+355.778,360.766,ES2008a.sync.347,You can imagine in the water. I like them because...
+361.122,363.102,ES2008a.sync.347,"They're like playful and silly, sort of."
+367.106,369.374,ES2008a.sync.349,I didn't pretend like it can get any better than that.
+375.778,377.31,ES2008a.sync.35,"Okay, I'm Rose and I'm..."
+377.538,378.59,ES2008a.sync.35,project manager.
+379.81,381.374,ES2008a.sync.35,from California.
+381.954,383.23,ES2008a.sync.37,Um...
+411.554,415.006,ES2008a.sync.351,It's definitely significantly harder once you're doing it.
+415.138,416.862,ES2008a.sync.45,I'm sexually coyote.
+418.05,421.726,ES2008a.sync.45,"Give it a little bit of a snout. I don't know, some teeth."
+430.722,434.206,ES2008a.sync.49,I live right across the street from an open space in California. We have coyotes.
+435.778,437.214,ES2008a.sync.49,So I really enjoy there.
+437.826,440.19,ES2008a.sync.49,They're singing and they're really beautiful animals.
+444.706,445.758,ES2008a.sync.51,Moving on to.
+446.146,447.774,ES2008a.sync.53,more serious.
+450.434,452.542,ES2008a.sync.53,We're going to talk about project finances.
+452.93,454.302,ES2008a.sync.93,We have a couple...
+455.554,459.614,ES2008a.sync.53,We'd like to sell it for about 25 euro with a profit aim of
+460.386,471.102,ES2008a.sync.53,"50 million euro from all our sales. And because this is for television, we have a market range of internet. like it's an international market range. We don't have to worry about specifics."
+472.674,480.51,ES2008a.sync.55,"In order to make a profit of this magnitude, we need to... be able to produce each one at a maximum of 1250 euro."
+482.466,485.47,ES2008a.sync.55,So we're selling it for twice. what we'd like to produce it for.
+490.562,491.742,ES2008a.sync.5,Okay.
+493.602,506.238,ES2008a.sync.57,"Just to generate a little bit of discussion about the project. I'd like to hear about your experiences using remote controls. your first ideas about creating a new remote control, what would be the best."
+506.594,509.918,ES2008a.sync.57,let you what are the features that you really like what are the features that you don't like
+510.53,511.742,ES2008a.sync.49,et cetera. So.
+513.858,515.006,ES2008a.sync.355,I hate when there's like-
+515.362,517.342,ES2008a.sync.355,quarter from buttons and you have to press to...
+517.602,527.55,ES2008a.sync.355,"actually turn on the TV, like you have to do one for the power of the TV and then like... another one to get the actual screen on and something else to get it all going. I don't know, now they keep combining."
+528.194,533.598,ES2008a.sync.355,all different remotes together and I don't know if I necessarily like that because I feel like you end up...
+533.826,537.534,ES2008a.sync.355,like multimedia overload. I just want to watch the TV.
+541.506,542.558,ES2008a.sync.359,always gets fast.
+542.818,543.966,ES2008a.sync.359,some sort of like...
+544.45,546.27,ES2008a.sync.361,device to help you find it.
+560.706,564.126,ES2008a.sync.256,I guess they're pretty neat little tools. You don't have to.
+564.354,566.782,ES2008a.sync.256,get up and walk across the interface channel.
+567.106,570.686,ES2008a.sync.256,Especially if you're someone really lazy like me.
+578.754,579.934,ES2008a.sync.258,tough reset for them.
+582.114,583.774,ES2008a.sync.258,one for the digital box.
+589.858,592.702,ES2008a.sync.260,That sounds a bit confusing. too many buttons on them.
+594.146,595.23,ES2008a.sync.258,
+597.602,601.086,ES2008a.sync.260,"All I really want to do is switch it on and off, change the channel, change the volume."
+605.794,607.582,ES2008a.sync.163,I agree with having...
+607.81,614.878,ES2008a.sync.163,too many remotes around. My dad has a whole drawer at home of remotes for various things and I don't know how to work half of them.
+617.474,621.182,ES2008a.sync.165,"What's important for me, I guess, is that it's easy to use."
+623.298,625.854,ES2008a.sync.165,"There's not too many buttons, they're not too small."
+627.042,628.926,ES2008a.sync.165,You need to know what you're doing.
+630.21,632.382,ES2008a.sync.167,And one thing I particularly like...
+633.698,640.67,ES2008a.sync.167,if you're not sort of moving it around to get it to work with the infrared. Yeah. I think there's a way around that.
+640.93,648.67,ES2008a.sync.167,but I know in my residence right now that. the television you sort of have to walk all around the room to turn on so it's just simpler.
+649.282,652.286,ES2008a.sync.167,just to turn around the TV itself and I think that's...
+652.546,656.03,ES2008a.sync.167,"If you're going to make a remote control, it should actually work for what it's doing."
+657.986,662.622,ES2008a.sync.365,What about batteries and things like that? Are there some remotes that don't require?
+663.426,666.494,ES2008a.sync.367,like batteries or do wall remotes require batteries?
+666.626,674.526,ES2008a.sync.65,"I would imagine all of them, but we could, but it's also we could use like a lithium battery that would last a lot longer than like double A's."
+675.65,680.67,ES2008a.sync.65,Like those are the batteries that are used in a lot of MP3 players now and that kind of thing.
+687.938,690.59,ES2008a.sync.91,"Okay, it seems we have a little bit of a conflict over..."
+692.098,695.358,ES2008a.sync.67,combining all the remotes together versus having...
+696.194,697.502,ES2008a.sync.67,five different remotes.
+699.17,701.534,ES2008a.sync.67,"Like you said, you don't like having all the buttons on one."
+701.89,707.39,ES2008a.sync.67,on one remote and yet you don't want to have five remotes. So how do we work with that?
+707.522,709.086,ES2008a.sync.165,Could we get something that...
+709.666,710.75,ES2008a.sync.179,just has.
+711.97,716.414,ES2008a.sync.181,It doesn't have all the buttons that you need to program the video recorder or...
+717.858,720.862,ES2008a.sync.181,other things that I'm not very coherent about.
+721.122,723.87,ES2008a.sync.181,but that just has your major buttons.
+724.226,728.734,ES2008a.sync.181,"that work for everything, you know, volume control on off."
+729.666,744.894,ES2008a.sync.373,"channel changing. And maybe that spatially divides it. So it's like if you're trying to get the TV on, that's the top thing on the remote. I don't know if it would be vertical or horizontal. in terms of how we're gonna make it, but if it's like all the TV stuff was here, then all the VCR stuff was here, all the."
+745.026,760.414,ES2008a.sync.355,"whatever else you have programmed into it, it's all just in a separate place and not like all the on buttons together. Cause then you're like, I don't even know what I'm turning on. Yeah. And if, if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day."
+760.706,778.558,ES2008a.sync.75,"Okay, so maybe have like one remote that has the main functions on off channel changing volume and another remote with all the special things. Because that is one thing that, um, remotes tend to have buttons that the TVs no longer have as well. So, like, you have to have them somewhere because you're going to need those special functions occasionally."
+781.122,783.454,ES2008a.sync.93,necessarily on the normal remote.
+784.066,785.15,ES2008a.sync.290,"Now, can we?"
+786.53,788.222,ES2008a.sync.268,control for television only.
+789.154,791.006,ES2008a.sync.77,Good question.
+791.426,794.302,ES2008a.sync.268,devices just to be used with a television.
+795.138,798.142,ES2008a.sync.270,would we even technically be possible to include video?
+801.538,803.39,ES2008a.sync.79,I don't know that yet.
+806.882,808.51,ES2008a.sync.272,television-related buttons.
+810.786,811.87,ES2008a.sync.81,question.
+816.066,818.558,ES2008a.sync.381,"I think it's just TV. I mean, if it..."
+820.418,821.566,ES2008a.sync.381,just right at the end.
+822.306,825.246,ES2008a.sync.381,new product and new television remote control. It's not like.
+825.858,826.91,ES2008a.sync.381,doesn't say.
+828.642,831.518,ES2008a.sync.383,even though things might be more advanced than that.
+833.922,836.702,ES2008a.sync.278,Maybe we should assume that it's just the television.
+840.29,841.374,ES2008a.sync.280,I suppose it would be nice to have.
+850.786,852.158,ES2008a.sync.207,we have to define what
+852.802,853.886,ES2008a.sync.207,what we're aiming for.
+854.434,855.838,ES2008a.sync.207,If it's just a television then that.
+856.322,859.038,ES2008a.sync.207,a bit simpler because there's less buttons that would even.
+861.506,864.158,ES2008a.sync.385,"Same idea, the buttons being visible and..."
+865.282,869.022,ES2008a.sync.209,If you have older people or people like me that aren't very coordinated hand-eye.
+869.474,876.126,ES2008a.sync.209,"it's really quite important that you're not pressing a small, like teeny mobile phone size buttons. if we can help it."
+879.426,883.742,ES2008a.sync.91,"Okay, sounds like we've had a good little discussion for our first ideas. Mind if we move on?"
+887.714,890.942,ES2008a.sync.91,Now our next meeting starts in 30 minutes.
+891.746,898.526,ES2008a.sync.91,I believe we've actually been only working on this. this one for about 20. So we can continue discussing more new ideas if you'd like.
+900.29,907.998,ES2008a.sync.93,This is just a breakdown of what we'll be doing individually. The industrial design. Aleema will be doing. the working design.
+908.098,909.694,Speaker 12,
+910.37,912.83,ES2008a.sync.93,user interface designer that's for you.
+913.154,920.318,ES2008a.sync.93,"technical functions, I guess, like keeping in mind the buttons thing, the size of the buttons. user requirements."
+921.538,925.502,ES2008a.sync.93,"You'll be hearing about different trends, about different things that people need."
+925.73,931.166,ES2008a.sync.93,I guess kind of the same discussion that we've been having we'll get from actual consumers.
+932.898,934.75,ES2008a.sync.101,Okay.
+935.842,944.382,ES2008a.sync.95,And you will get specific instructions sent by your personal coach. I realize in this past one we didn't have much. We just wanted to get a little brainstorming done.
+947.394,949.79,ES2008a.sync.93,Very excited to see all your animals.
+949.986,953.022,ES2008a.sync.95,"and how, what wonderful artists we all are."
+976.194,978.878,ES2008a.sync.99,I haven't gotten an agenda yet. I'll put that together.
+979.106,985.726,ES2008a.sync.99,"I'm sure as we'll each get our own instructions and then, because what we're gonna do is first our individual actions and then we'll come back together."
+988.994,991.486,ES2008a.sync.99,or we'll all have more concrete things to contribute next time.
+992.578,993.694,ES2008a.sync.221,sure we'll be busy.
+998.818,1002.11,ES2008a.sync.101,I'll type up minutes and probably email those out to all of you.
+1002.498,1003.806,ES2008a.sync.65,Just including all the
+1003.906,1005.214,ES2008a.sync.101,things that we talked about.
+1009.25,1010.462,ES2008a.sync.103,"Yes, I..."
+1012.034,1013.47,ES2008a.sync.103,I'll just attach it to an email.
+1014.722,1018.27,ES2008a.sync.103,You're number two? I'm two. Three? Four? Is that correct?
+1021.666,1023.07,ES2008a.sync.105,It was lovely meeting you all.
+1032.706,1035.166,ES2008a.sync.107,Make sure to keep checking the company website and the emails.

@@ -57,8 +57,10 @@ pyenv activate speech-diarization-env
 
 ````bash
 Step 2: Upgrade pip and install dependencies
+```
 ```bash
 pip install --upgrade pip setuptools wheel
+```
 ```bash
 Step 3: Install PyTorch for Mac M1/M2/M3
 ````
@@ -97,33 +99,33 @@ python -c "import torch; print(torch.backends.mps.is_available())"
 
 ## Code Structure
 
-    •	proj.ipynb: Jupyter notebook that demonstrates the pipeline with code and visualizations.
-    •	requirements.txt: Lists all the Python dependencies needed for the project.
-    •	AMI/: Contains AMI meeting corpus data and annotations.
-    •	ES2008a/: Directory for the specific AMI meeting session data.
-    •	ES2008a.A.segments.xml: Ground truth speaker segmentation file for speaker A.
-    •	ES2008a.B.segments.xml: Ground truth speaker segmentation file for speaker B.
-    •	ES2008a.C.segments.xml: Ground truth speaker segmentation file for speaker C.
-    •	ES2008a.D.segments.xml: Ground truth speaker segmentation file for speaker D.
-    •	Outputs/: Directory for output results.
-    •	ES2008a_transcript.csv: The final transcription result with speaker labels and segments.
+1. proj.ipynb: Jupyter notebook that demonstrates the pipeline with code and visualizations.
+2. requirements.txt: Lists all the Python dependencies needed for the project.
+3. AMI/: Contains AMI meeting corpus data and annotations.
+4. ES2008a/: Directory for the specific AMI meeting session data.
+5. ES2008a.A.segments.xml: Ground truth speaker segmentation file for speaker A.
+6. ES2008a.B.segments.xml: Ground truth speaker segmentation file for speaker B.
+7. ES2008a.C.segments.xml: Ground truth speaker segmentation file for speaker C.
+8. ES2008a.D.segments.xml: Ground truth speaker segmentation file for speaker D.
+9. Outputs/: Directory for output results.
+10. ES2008a_transcript.csv: The final transcription result with speaker labels and segments.
 
-Running the Pipeline
+## Running the Pipeline
 
 To run the pipeline on an audio file, use the provided Jupyter notebook (proj.ipynb).
 
-Example: 1. Open the notebook proj.ipynb in Jupyter. 2. Modify paths for your data (if needed), such as the AMI audio file and annotation files. 3. Run the notebook cells sequentially to process the audio, perform VAD, diarization, speaker recognition, and transcription.
+1. Open the notebook proj.ipynb in Jupyter.
+2. Modify paths for your data (if needed), such as the AMI audio file and annotation files.
+3. Run the notebook cells sequentially to process the audio, perform VAD, diarization, speaker recognition, and transcription.
 
-Evaluation
+## Evaluation
 
 The system’s performance can be evaluated using the Diarization Error Rate (DER) and VAD F1-Score. You can use the AMI ground-truth annotations to evaluate the system’s performance.
 
-Results
+## Results
+
 • The VAD F1-Score and Diarization Error Rate (DER) will be printed after evaluation, providing insights into the system’s accuracy.
 
-Future Work
-• Code-switching Recognition: Improve performance for multi-lingual conversations by incorporating more diverse datasets.
+## Future Work
 
-Contact
-• Aryan Kumar (M23CSA510) – m23csa510@iitj.ac.in
-• Abhilash Aggarwal (M23CSA502) – m23csa502@iitj.ac.in
+• Code-switching Recognition: Improve performance for multi-lingual conversations by incorporating more diverse datasets.

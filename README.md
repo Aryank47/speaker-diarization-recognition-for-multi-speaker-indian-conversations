@@ -40,38 +40,35 @@ This project aims to develop a speech understanding system for multi-speaker Ind
 └── ES2008a_transcript.csv
 ```
 
-## Installation Instructions
+## Repo Setup & Installation Instructions
 
-Clone the repo:
+### Step 1: Clone the repo:
 
 ```bash
 git clone https://github.com/Aryank47/speaker-diarization-recognition-for-multi-speaker-indian-conversations.git
 ```
 
+### Step 2: Create a Virtual Environment
+
 ```bash
-### Step 1: Create a Virtual Environment
 pyenv install 3.11.6
 pyenv virtualenv 3.11.6 speech-diarization-env
 pyenv activate speech-diarization-env
 ```
 
-````bash
-Step 2: Upgrade pip and install dependencies
-```
+### Step 3: Upgrade pip and install dependencies
+
 ```bash
 pip install --upgrade pip setuptools wheel
 ```
-```bash
-Step 3: Install PyTorch for Mac M1/M2/M3
-````
+
+### Step 4: Install PyTorch for Mac M1/M2/M3
 
 ```bash
 pip install torch==2.1.2 torchvision torchaudio
 ```
 
-```bash
-Step 4: Install required packages
-```
+### Step 5: Install required packages
 
 ```bash
 pip install numpy pandas scikit-learn scikit-image joblib
@@ -80,17 +77,13 @@ pip install openai-whisper
 pip install speechbrain
 ```
 
-```bash
-Step 5: Install ffmpeg (needed for Whisper ASR)
-```
+### Step 6: Install ffmpeg (needed for Whisper ASR)
 
 ```bash
 brew install ffmpeg
 ```
 
-```bash
-Step 6: Verify PyTorch and MPS compatibility
-```
+### Step 7: Verify PyTorch and MPS compatibility
 
 ```bash
 python -c "import torch; print(torch.__version__)"
@@ -109,12 +102,13 @@ python -c "import torch; print(torch.backends.mps.is_available())"
 8. ES2008a.D.segments.xml: Ground truth speaker segmentation file for speaker D.
 9. Outputs/: Directory for output results.
 10. ES2008a_transcript.csv: The final transcription result with speaker labels and segments.
+11. custom_hinglish.audio.wav: Custom hinglish audio file to test the code.
 
 ## Running the Pipeline
 
 To run the pipeline on an audio file, use the provided Jupyter notebook (main.ipynb).
 
-1. Open the notebook main.ipynb in Jupyter.
+1. Open the notebook **main.ipynb** in Jupyter.
 2. Modify paths for your data (if needed), such as the AMI audio file and annotation files.
 3. Run the notebook cells sequentially to process the audio, perform VAD, diarization, speaker recognition, and transcription.
 
@@ -124,8 +118,8 @@ The system’s performance can be evaluated using the Diarization Error Rate (DE
 
 ## Results
 
-• The VAD F1-Score and Diarization Error Rate (DER) will be printed after evaluation, providing insights into the system’s accuracy.
+• The **VAD F1-Score** and **Diarization Error Rate (DER)** will be printed after evaluation, providing insights into the system’s accuracy.
 
 ## Future Work
 
-• Code-switching Recognition: Improve performance for multi-lingual conversations by incorporating more diverse datasets.
+• Code-switching Recognition: Improve performance for multi-lingual conversations by fine tuning the ASR model on more diverse datasets.
